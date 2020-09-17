@@ -1,3 +1,3 @@
 def find_even_values(src)
-  src.select(&:even?)
+  src.select(&:even)
 end
